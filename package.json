@@ -1,0 +1,20 @@
+{
+  "name": "random-str-msg-sgj",
+  "version": "1.0.0",
+  "description": "random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Santiago Guzman <santi03312005@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-str-msg-sgj": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1",
+    "user": "^0.0.0"
+  }
+}
